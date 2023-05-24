@@ -1,0 +1,17 @@
+{
+    "contacts":[
+    {
+        "name":"Samsung",
+        "phoneNumber":"9807834212"
+    },
+    {
+        "name":"Amazon",
+        "phoneNumber":"7770002134"
+
+    },
+    {
+        "name":"Dominos",
+        "phoneNumber":"987654321"
+
+    }
+]}
